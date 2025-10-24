@@ -1,15 +1,15 @@
 # User-Authentication-System
 
-##Step 1: Initialize & Install Packages
+## Step 1: Initialize & Install Packages
 
-###In VS Code terminal:
+### In VS Code terminal:
 ```
 npm init -y
 
 npm install express mongoose bcryptjs jsonwebtoken dotenv cors
 ```
 
-##Project Structure
+## Project Structure
 
 ```
 UserAuthSystem/
