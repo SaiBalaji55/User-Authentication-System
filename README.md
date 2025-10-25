@@ -3,7 +3,7 @@
 ## Step 1: Initialize & Install Packages
 
 ### In VS Code terminal:
-```bash
+```
 npm init -y
 
 npm install express mongoose bcryptjs jsonwebtoken dotenv cors
@@ -30,7 +30,7 @@ UserAuthSystem/
     └── db.js
 ```
 ## Run Project
-```bash
+```
 node server.js
 ```
 
