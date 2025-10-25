@@ -29,3 +29,8 @@ UserAuthSystem/
 └── /config
     └── db.js
 ```
+## Run Project
+```
+node server.js
+```
+
