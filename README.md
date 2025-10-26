@@ -34,7 +34,15 @@ UserAuthSystem/
 node server.js
 ```
 
+## Output:
+```
+✅ MongoDB Connected...
+🚀 Server running on port 5000
+```
+
 ## IMPORTANT
 
 1. Compulsory you install the **mongo db** in you system
+2. After to connect the database after to paste the chrome page --> ``` http://localhost:5000/ ```
+        
 
